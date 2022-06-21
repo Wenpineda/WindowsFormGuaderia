@@ -1,0 +1,2 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO III\Programacion I\TiendaProgra\TiendaProgra\obj\Debug\net6.0-windows\FormsGurderia.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\FormsGurderia\FormsGurderia\obj\Debug\net6.0-windows\FormsGurderia.csproj.AssemblyReference.cache
